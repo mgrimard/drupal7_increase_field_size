@@ -1,0 +1,3 @@
+name = Increase Textfield Size
+description = Increases the textfield size in the install file.
+core = 7.x

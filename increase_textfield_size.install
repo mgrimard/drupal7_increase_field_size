@@ -1,0 +1,8 @@
+<?php
+
+/**
+ * Change max_length of field
+ */
+function increase_textfield_size_update_7002() {
+  increase_textfield_size_change_text_field_max_length('field_see_reference', 1000);
+}
